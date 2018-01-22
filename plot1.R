@@ -1,6 +1,4 @@
 
-setwd("C:/Users/Linda/RWORK/Exploratory Analysis")
-
 
 ## Downloads the dataset from the URL into the directory created above.
 url_fl <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
